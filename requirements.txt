@@ -1,0 +1,8 @@
+langchain
+langchain-community
+langchain-groq
+langgraph
+langchain-text-splitters
+ddgs
+streamlit
+python-dotenv
